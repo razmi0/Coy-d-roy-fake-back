@@ -2,6 +2,7 @@
 <p>
 J'ai fais ce fake back pour pouvoir tester et organiser mon front en local. J'ai mis que 2 ressources dans <i>produits.json</i> mais rajoutez en autant que vous voulez: 
 </p>
+
 ```json
 {
   "produits": [
@@ -39,8 +40,8 @@ J'ai fais ce fake back pour pouvoir tester et organiser mon front en local. J'ai
 **Go to**
 <br>
 
-> http://localhost:3000/
-http://localhost:3000/produits
+> http://localhost:3000/ <br>
+http://localhost:3000/produits <br>
 http://localhost:3000/users
 
 <br>
@@ -52,7 +53,8 @@ http://localhost:3000/users
 
 <br>
 <p>
-Explorer le fichier <i>fake.js</i>, lire la doc de Faker et faire joujou avec l'objet faker deja initialiser avec 
+Explorer le fichier <i>fake.js</i>, lire la doc de Faker et faire joujou avec l'objet faker deja initialiser avec :
+
 ```js
 import { faker } from "@faker-js/faker";
 const fakeObject = faker;
