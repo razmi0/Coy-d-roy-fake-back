@@ -7,12 +7,12 @@ J'ai fais ce fake back pour pouvoir tester et organiser mon front en local. J'ai
 {
   "produits": [
     {
-    //   PRODUITS
+
     },
   ],
   "users": [
     {
-    //   USERS
+
     },
   ]
 }
